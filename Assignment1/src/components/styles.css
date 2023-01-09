@@ -1,0 +1,22 @@
+.mobile
+{
+    width: 260px;
+    float: left;
+   
+    box-shadow: 3px 4px 5px 3px rgb(174, 171, 171);
+    margin: 10px;
+
+}
+.mobile img
+{
+    width: 100%;
+   
+}
+.mobile button
+{
+    background-color: brown;
+    color: aliceblue;
+    border: 0px;
+    margin-bottom: 10px;
+   
+}
